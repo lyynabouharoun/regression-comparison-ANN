@@ -114,4 +114,4 @@ This project is released under the MIT License.
 
 ## Author
 
-**Lyna** – [GitHub Profile](https://github.com/YOUR_USERNAME)
+**Lyna** – [GitHub Profile](https://github.com/lyynabouharoun)
