@@ -78,7 +78,7 @@ The project is divided into two main parts:
 
 All code, plots, and analyses are implemented in a **Jupyter Notebook**:
 
-- [Notebook Link (GitHub)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)  
+- [Notebook Link (GitHub)](https://github.com/lyynabouharoun/regression-comparison-ANN)  
 
 You can run the notebook cell by cell to reproduce the results and visualizations.
 
